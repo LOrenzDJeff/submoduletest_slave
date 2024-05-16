@@ -1,0 +1,3 @@
+[submodule "submoduletest_master"]
+	path = submoduletest_master
+	url = https://github.com/LOrenzDJeff/submoduletest_master
